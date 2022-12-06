@@ -1,0 +1,134 @@
+.html{
+    justify-content: center;
+   
+
+}
+
+.navbar{
+    background-color: black;
+    text-decoration-color: white;
+    font-size:large;
+    text-align-last: end;
+}
+  .a{
+    font-size: medium;
+    text-align: right;
+    justify-content: end;
+    align-self: end;
+    align-items: flex-end;
+    text-align-last: end;
+  }
+
+
+  .background {
+    position:calc(70%);
+    z-index: index auto;;
+    background-color: black;
+    color: white;
+    position:absolute;
+    
+    justify-content: right;
+    align-items: right;
+    height: 450px;
+    width: 450px;
+  }
+  
+    .h4 {
+      color:black;
+      text-align: center;
+    
+    }
+  
+    .navbar {
+      color:white;
+      text-align: right;
+background-color:white;
+
+    }
+  h1{
+    text-align: center;
+  
+  }
+
+   h2 {
+    font-size: 1rem;
+    text-align: center;
+    text-align-last:center;
+    /* margin-right: 50px; */
+    margin-right: 10%;
+    
+     
+    }
+   
+    
+  
+    .background p {
+      font-size: 1rem;
+      text-align: end;
+      text-align-last: end;
+      /* margin-right: 50px; */
+      margin-block-end: 10%;
+  }
+  .card {
+    align-content:flex-end;
+    width:50%;
+      background-color:white;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    display:inline-block;
+    color:black;
+    margin: auto;
+
+  }
+  
+  h5{
+    background-color: black;
+    color:white;
+  text-align: center;
+  
+  }
+   .form{
+    text-align: center;
+    size-adjust: calc(50%);
+   margin: auto;
+  } */
+   
+  .contenedor  .izquierda{
+    object-fit: contain;
+    background-color:black; 
+  }
+  .colderecha {
+  background-color:black;
+  color: white;
+  border: 1px solid white;
+  text-align: left;
+  }
+  
+  h3{
+    
+    background-color: black;
+    color: white;
+  text-align: left;
+  }
+  .contenedor-flex{
+    background-color: black;
+  }
+  
+  .col-6{
+    background-color: black;
+  }
+  
+  .register{
+    display: flex;
+    justify-content: center;
+  }
+    
+    .subrayado{
+      border-bottom: 2px dotted #000;
+      text-decoration: none;
+  }
+  .formulario {
+    width: 500px;
+    height: 50%;
+    justify-content: center;
+}
